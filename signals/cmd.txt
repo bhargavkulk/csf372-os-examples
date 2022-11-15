@@ -1,0 +1,3 @@
+./a.out &
+kill -QUIT %1
+kill -USR1 %1
